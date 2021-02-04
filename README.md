@@ -3,6 +3,10 @@ To use the app, you'll need a pixabay api key which requires a free pixabay acco
 You can find your api key under the parameters section of https://pixabay.com/api/docs/ .\
 In the root folder, create a .env file and create the variable REACT_APP_PIXABAY_API_KEY with your pixabay api key
 
+![Gallery](https://user-images.githubusercontent.com/72292609/106865809-b08b4200-66f1-11eb-914d-c6915d2f4e37.PNG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
