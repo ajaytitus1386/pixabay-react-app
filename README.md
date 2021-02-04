@@ -1,5 +1,6 @@
 # Using the App
-To use the app, you'll need a pixabay api key which requires a free pixabay account. You can find your api key under the parameters section of https://pixabay.com/api/docs/
+To use the app, you'll need a pixabay api key which requires a free pixabay account.\
+You can find your api key under the parameters section of https://pixabay.com/api/docs/ .\
 In the root folder, create a .env file and create the variable REACT_APP_PIXABAY_API_KEY with your pixabay api key
 
 # Getting Started with Create React App
