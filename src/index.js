@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './assets/main.css';
+import Form from './Form.jsx';
+import Footer from './components/footer.jsx';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    
+    <Form />
+    <Footer />
   </React.StrictMode>,
   document.getElementById('root')
 );
