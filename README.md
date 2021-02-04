@@ -3,7 +3,16 @@ To use the app, you'll need a pixabay api key which requires a free pixabay acco
 You can find your api key under the parameters section of https://pixabay.com/api/docs/ .\
 In the root folder, create a .env file and create the variable REACT_APP_PIXABAY_API_KEY with your pixabay api key
 
-![Gallery](https://user-images.githubusercontent.com/72292609/106865809-b08b4200-66f1-11eb-914d-c6915d2f4e37.PNG)
+## `Landing Form`
+![Landing](https://user-images.githubusercontent.com/72292609/106865962-e3353a80-66f1-11eb-936b-1b3e0f21c6e6.PNG) \
+
+## `Gallery Page`
+![Gallery](https://user-images.githubusercontent.com/72292609/106865809-b08b4200-66f1-11eb-914d-c6915d2f4e37.PNG) \
+
+## `Dark Mode`
+
+![LandingDark](https://user-images.githubusercontent.com/72292609/106866034-fba55500-66f1-11eb-90c1-e8262ed67acd.PNG) \
+![GalleryDark](https://user-images.githubusercontent.com/72292609/106866039-fe07af00-66f1-11eb-8f4f-b6f7d104200a.PNG) \
 
 
 
